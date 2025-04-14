@@ -5,3 +5,5 @@ langchain-mistralai
 langchain~=0.3.23
 pydantic~=2.11.3
 duckduckgo-search
+fastapi
+uvicorn
