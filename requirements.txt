@@ -7,3 +7,9 @@ pydantic~=2.11.3
 duckduckgo-search
 fastapi
 uvicorn
+datasets
+faiss-cpu>=1.7.0
+sentence-transformers>=2.6.0
+PyPDF2>=3.0.0
+scikit-learn>=1.0.2
+numpy>=1.22.0
